@@ -1,4 +1,3 @@
-from math import pi
 from flask import Flask, render_template, request, redirect
 import finnhub
 import pandas as pd
